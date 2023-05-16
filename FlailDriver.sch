@@ -1834,11 +1834,9 @@ NoConn ~ 3950 9100
 Wire Wire Line
 	1650 9000 1700 9000
 Wire Wire Line
-	4000 10200 3950 10200
+	1650 10200 1700 10200
 Wire Wire Line
-	1650 9400 1700 9400
-Wire Wire Line
-	1650 9500 1700 9500
+	1650 10300 1700 10300
 Wire Wire Line
 	1650 9100 1700 9100
 Wire Wire Line
@@ -1864,12 +1862,8 @@ Wire Wire Line
 	3950 10700 4000 10700
 Wire Wire Line
 	3950 10600 4000 10600
-Text GLabel 4000 9900 2    50   Input ~ 0
-CTRL2
 Wire Wire Line
 	3950 10400 4300 10400
-Text GLabel 4000 9800 2    50   Input ~ 0
-VOL
 Wire Wire Line
 	3950 10500 4000 10500
 Wire Wire Line
@@ -1983,8 +1977,6 @@ Wire Wire Line
 Connection ~ 7200 1050
 Wire Wire Line
 	7200 1050 7300 1050
-Text GLabel 4000 10200 2    50   Input ~ 0
-UNMUTE
 Wire Wire Line
 	9950 2750 10050 2750
 Wire Wire Line
@@ -2259,8 +2251,6 @@ F 3 "" H 4300 10400 50  0001 C CNN
 $EndComp
 Text GLabel 4000 10100 2    50   Input ~ 0
 MUTE_IN
-Text GLabel 4000 10000 2    50   Input ~ 0
-CTRL1
 Text GLabel 1650 9800 0    50   Input ~ 0
 DIN
 $Comp
@@ -2344,7 +2334,7 @@ U 1 1 62E18F5B
 P 1200 1200
 F 0 "J1" H 1118 875 50  0000 C CNN
 F 1 "PWR" H 1118 966 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_NoRef_Centered_BoardEdge" H 1200 1200 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_BackSilk_Centered_BoardEdge" H 1200 1200 50  0001 C CNN
 F 3 "~" H 1200 1200 50  0001 C CNN
 F 4 "C430323" H 1200 1200 50  0001 C CNN "LCSC"
 	1    1200 1200
@@ -2356,7 +2346,7 @@ U 1 1 6604CCE9
 P 11250 3100
 F 0 "J2" H 11168 2775 50  0000 C CNN
 F 1 "LOUT" H 11168 2866 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_NoRef_Centered_BoardEdge" H 11250 3100 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_BackSilk_Centered_BoardEdge" H 11250 3100 50  0001 C CNN
 F 3 "~" H 11250 3100 50  0001 C CNN
 F 4 "C430323" H 11250 3100 50  0001 C CNN "LCSC"
 	1    11250 3100
@@ -2368,7 +2358,7 @@ U 1 1 660C4C58
 P 11250 4350
 F 0 "J3" H 11168 4025 50  0000 C CNN
 F 1 "ROUT" H 11168 4116 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_NoRef_Centered_BoardEdge" H 11250 4350 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_BackSilk_Centered_BoardEdge" H 11250 4350 50  0001 C CNN
 F 3 "~" H 11250 4350 50  0001 C CNN
 F 4 "C430323" H 11250 4350 50  0001 C CNN "LCSC"
 	1    11250 4350
@@ -2401,9 +2391,9 @@ Wire Wire Line
 	7550 5350 7900 5350
 Wire Wire Line
 	3950 9900 4000 9900
-Text GLabel 1650 9400 0    50   Input ~ 0
+Text GLabel 1650 10300 0    50   Input ~ 0
 BT1
-Text GLabel 1650 9500 0    50   Input ~ 0
+Text GLabel 1650 10200 0    50   Input ~ 0
 BT2
 NoConn ~ 1650 9200
 NoConn ~ 1650 9300
@@ -2696,12 +2686,12 @@ NoConn ~ 4000 10300
 Wire Wire Line
 	1700 10100 1650 10100
 Wire Wire Line
-	1700 10200 1650 10200
+	1700 9400 1650 9400
 Wire Wire Line
-	1700 10300 1650 10300
+	1700 9500 1650 9500
 NoConn ~ 1650 10100
-NoConn ~ 1650 10200
-NoConn ~ 1650 10300
+NoConn ~ 1650 9400
+NoConn ~ 1650 9500
 $Comp
 L Device:LED D3
 U 1 1 672DFDBA
@@ -2752,4 +2742,17 @@ F 4 "C84256" H 200 10050 50  0001 C CNN "LCSC"
 	1    200  10050
 	1    0    0    1   
 $EndComp
+Text GLabel 4000 9900 2    50   Input ~ 0
+CTRL1
+Text GLabel 4000 9800 2    50   Input ~ 0
+CTRL2
+Wire Wire Line
+	4000 10200 3950 10200
+Text GLabel 4000 10200 2    50   Input ~ 0
+UNMUTE
+Text GLabel 4000 10000 2    50   Input ~ 0
+VOL
+Wire Wire Line
+	1700 9600 1650 9600
+NoConn ~ 1650 9600
 $EndSCHEMATC
