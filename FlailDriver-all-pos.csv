@@ -39,6 +39,9 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "FB2","Filter","L_1206_3216Metric_Pad1.42x1.75mm_HandSolder",55.626000,22.098000,270.000000,top
 "FB3","Filter","L_1206_3216Metric_Pad1.42x1.75mm_HandSolder",52.324000,22.098000,270.000000,top
 "FB4","Filter","L_1206_3216Metric_Pad1.42x1.75mm_HandSolder",60.198000,22.098000,270.000000,top
+"J1","PWR","Phoenix_Stacked_BackSilk_Centered_BoardEdge",53.975000,-165.100000,0.000000,top
+"J2","LOUT","Phoenix_Stacked_BackSilk_Centered_BoardEdge",49.149000,47.625000,180.000000,top
+"J3","ROUT","Phoenix_Stacked_BackSilk_Centered_BoardEdge",58.801000,47.625000,180.000000,top
 "J4","GAIN_SEL","PinHeader_2x04_P2.54mm_Vertical_SMD",53.975000,-8.997000,270.000000,top
 "Q5","MMBT3904","SOT-23",60.579000,-121.793000,180.000000,top
 "R1","1M","R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef",60.198000,-41.465500,90.000000,top

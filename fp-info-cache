@@ -1,4 +1,4 @@
-19112681337825439
+19132908161352439
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -231,16 +231,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -50169,6 +50169,20 @@ BNC_THT_Vertical_CONBNC001
 5
 2
 HammerheadAudio
+BorosScale_Tiny_11400DPI
+
+
+0
+0
+0
+HammerheadAudio
+BorosScale_Tiny_12000DPI
+
+
+0
+0
+0
+HammerheadAudio
 Boros_Scale_18in
 
 
@@ -50366,6 +50380,20 @@ Creep20_217.6x300mm
 0
 HammerheadAudio
 Creep25_130x184mm
+
+
+0
+0
+0
+HammerheadAudio
+CreepFaceD2_150DPI
+
+
+0
+0
+0
+HammerheadAudio
+CreepFaceF1_150DPI
 
 
 0
@@ -51415,6 +51443,13 @@ HH_LOGO_32x16
 0
 0
 HammerheadAudio
+HH_LOGO_32x16_Centered
+
+
+0
+0
+0
+HammerheadAudio
 HiveFrame1_350x400mm
 
 
@@ -51717,6 +51752,13 @@ KaiRho_BMask_400DPI_11.5x13mm
 0
 HammerheadAudio
 KaiRho_Mask_400DPI_11.5x13mm
+
+
+0
+0
+0
+HammerheadAudio
+KingMadSketch_600DPI
 
 
 0
@@ -52619,6 +52661,13 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
+Phoenix_Stacked_Marking2_Wider_NoRef_Centered_NoMark_BoardEdge
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
+phoenix_contact connector MCV_01x02_G_3.81mm
+0
+4
+2
+HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
@@ -52626,7 +52675,21 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
+Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark_BoardEdge
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
+phoenix_contact connector MCV_01x02_G_3.81mm
+0
+4
+2
+HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
+phoenix_contact connector MCV_01x02_G_3.81mm
+0
+4
+2
+HammerheadAudio
+Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark_BoardEdge
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
 0
@@ -54027,6 +54090,27 @@ WheelOfLife_SIlk
 0
 HammerheadAudio
 WheelOfLife_SIlk_Big
+
+
+0
+0
+0
+HammerheadAudio
+WheelOfLife_Tiny_812DPI
+
+
+0
+0
+0
+HammerheadAudio
+WheelOfLife_Tiny_1625DPI
+
+
+0
+0
+0
+HammerheadAudio
+WheelOfLife_Tiny_6500DPI
 
 
 0

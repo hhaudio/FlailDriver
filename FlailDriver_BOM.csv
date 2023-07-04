@@ -1,7 +1,7 @@
 Comment,Designator,Footprint,LCSC
 "10uf","C1,C2,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C16","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C96446"
 "47pf","C14","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C1671"
-"1uf","C15","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef"," C15849"
+"1uf","C15","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C15849"
 "100nf","C17,C18,C19,C20","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C14663"
 "220nf","C21,C22,C23,C24","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C21120"
 "1nf","C25,C26,C27,C28,C30,C31","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C1588"
@@ -22,7 +22,8 @@ Comment,Designator,Footprint,LCSC
 "39k","R10","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C23153"
 "47k","R11","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C25819"
 "75k","R15","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C23242"
-"2.2k","R16,R17,R20","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C4190"
+"100","R16,R20","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C22775"
+"2.2k","R17","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C4190"
 "5.6k","R18","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C23189"
 "1k","R19","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C21190"
 "100k","R13,R14,R21,R22","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef","C25803"
