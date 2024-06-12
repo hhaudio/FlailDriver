@@ -1,4 +1,4 @@
-19144857098318439
+19100895441251439
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -231,16 +231,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -3753,13 +3753,6 @@ capacitor
 2
 Capacitor_SMD
 C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
@@ -50169,20 +50162,6 @@ BNC_THT_Vertical_CONBNC001
 5
 2
 HammerheadAudio
-BorosScale_Tiny_11400DPI
-
-
-0
-0
-0
-HammerheadAudio
-BorosScale_Tiny_12000DPI
-
-
-0
-0
-0
-HammerheadAudio
 Boros_Scale_18in
 
 
@@ -50380,20 +50359,6 @@ Creep20_217.6x300mm
 0
 HammerheadAudio
 Creep25_130x184mm
-
-
-0
-0
-0
-HammerheadAudio
-CreepFaceD2_150DPI
-
-
-0
-0
-0
-HammerheadAudio
-CreepFaceF1_150DPI
 
 
 0
@@ -51443,13 +51408,6 @@ HH_LOGO_32x16
 0
 0
 HammerheadAudio
-HH_LOGO_32x16_Centered
-
-
-0
-0
-0
-HammerheadAudio
 HiveFrame1_350x400mm
 
 
@@ -51758,13 +51716,6 @@ KaiRho_Mask_400DPI_11.5x13mm
 0
 0
 HammerheadAudio
-KingMadSketch_600DPI
-
-
-0
-0
-0
-HammerheadAudio
 LadderBabble_JLCFix1_300
 
 
@@ -52013,34 +51964,6 @@ HammerheadAudio
 M4_Mount_Tight
 Mounting Hole 4.3mm, no annular, M4
 mounting hole 4.3mm no annular m4
-0
-0
-0
-HammerheadAudio
-Martyr_Mask_Right_Test
-
-
-0
-0
-0
-HammerheadAudio
-Martyr_Mask_Test
-
-
-0
-0
-0
-HammerheadAudio
-Martyr_Silk_Right_Test
-
-
-0
-0
-0
-HammerheadAudio
-Martyr_Silk_Test
-
-
 0
 0
 0
@@ -52619,13 +52542,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
-Phoenix_Stacked_BackSilk_Centered_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 Phoenix_Stacked_Marking
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
@@ -52641,13 +52557,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 2
 HammerheadAudio
 Phoenix_Stacked_Marking2_Centered
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_NoRef_Centered_BoardEdge
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
 0
@@ -52689,13 +52598,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_NoMark_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
@@ -52703,21 +52605,7 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark_BoardEdge
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
 0
@@ -52732,13 +52620,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 2
 HammerheadAudio
 Phoenix_Stacked_Marking_1x3
-Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical || order number: 1803439 8A 160V
-phoenix_contact connector MCV_01x03_G_3.81mm
-0
-6
-3
-HammerheadAudio
-Phoenix_Stacked_Marking_1x3_PWRCTRL
 Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical || order number: 1803439 8A 160V
 phoenix_contact connector MCV_01x03_G_3.81mm
 0
@@ -52766,26 +52647,12 @@ phoenix_contact connector MCV_01x03_G_3.81mm
 6
 3
 HammerheadAudio
-Phoenix_Stacked_Marking_PWRCTRL
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 PinHeader_1x06_P2.54mm_Vertical_Front
 Through hole straight pin header, 1x06, 2.54mm pitch, single row
 Through hole pin header THT 1x06 2.54mm single row
 0
 6
 6
-HammerheadAudio
-PJ-3410
-
-
-0
-4
-4
 HammerheadAudio
 Plant_Spheres
 
@@ -52933,13 +52800,6 @@ Rabbit_Spheres
 0
 0
 0
-HammerheadAudio
-Relay-MPA-S-105-C-C2886816
-
-
-0
-5
-5
 HammerheadAudio
 Replacement_9x9mm
 
@@ -53348,13 +53208,6 @@ SpeakerHead_300_Silk
 0
 HammerheadAudio
 Speaker_TE122001-6
-
-
-0
-2
-2
-HammerheadAudio
-Speaker_TE122001-6_LooseFit
 
 
 0
@@ -54139,27 +53992,6 @@ WheelOfLife_SIlk
 0
 HammerheadAudio
 WheelOfLife_SIlk_Big
-
-
-0
-0
-0
-HammerheadAudio
-WheelOfLife_Tiny_812DPI
-
-
-0
-0
-0
-HammerheadAudio
-WheelOfLife_Tiny_1625DPI
-
-
-0
-0
-0
-HammerheadAudio
-WheelOfLife_Tiny_6500DPI
 
 
 0
@@ -59842,13 +59674,6 @@ TEENSY_3.5_3.6_NO_SILK
 0
 86
 86
-MeowWolf_Templates
-TEENSY_4.1_MINIMAL_DROP_IN
-TEENSY 3 FOOTPRINT- NO SILK LABEL ON PINS
-TEENSY 3 FOOTPRINT- NO SILK LABEL ON PINS
-0
-28
-28
 MeowWolf_Templates
 TEENSY_LC
 TEENSY 3 FOOTPRINT
@@ -74376,13 +74201,6 @@ resistor
 2
 Resistor_SMD
 R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
